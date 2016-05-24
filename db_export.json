@@ -1,0 +1,61 @@
+{
+  "description": "This is an export of satnegirji.org database",
+  "language": {
+    "0": "northern_sami",
+    "1": "inari_sami",
+    "2": "skolt_sami",
+    "3": "lule_sami",
+    "4": "southern_sami",
+    "5": "kildin_sami",
+    "6": "pite_sami",
+    "7": "ume_sami",
+    "8": "akkala_sami",
+    "9": "kemi_sami",
+    "10": "kainuu_sami",
+    "11": "ter_sami",
+    "100": "english",
+    "101": "finnish"
+  },
+  "word_class": {
+    "0": "undefined",
+    "1": "noun",
+    "2": "verb",
+    "3": "adjective",
+    "4": "adverb",
+    "5": "pronoun",
+    "6": "preposition",
+    "7": "conjunction",
+    "8": "determiner",
+    "9": "exclamation"
+  },
+  "words": [
+    {
+      "id": 1,
+      "body": "jee",
+      "keyword": "jee",
+      "language": 0,
+      "word_class": 0
+    },
+    {
+      "id": 2,
+      "body": "beana",
+      "keyword": "beana",
+      "language": 0,
+      "word_class": 0
+    },
+    {
+      "id": 3,
+      "body": "koira",
+      "keyword": "koira",
+      "language": 101,
+      "word_class": 0
+    }
+  ],
+  "translations": [
+    {
+      "id": 1,
+      "original": 2,
+      "translation": 3
+    }
+  ]
+}
